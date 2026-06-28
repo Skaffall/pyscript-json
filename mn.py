@@ -20,7 +20,7 @@ data = {
     
     "metadata":{
         "Version": w,
-        "Creator":"Kirassan"
+        "Creator":"Skaffall"
     },
    "base":{
         "Time_init":time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()),

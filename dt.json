@@ -1,10 +1,11 @@
 {
     "metadata": {
-        "Version": 1.1,
+        "Version": 1.8,
         "Creator": "Kirassan"
     },
     "base": {
-        "Time_init": "2026-06-27 22:21:58",
-        "Time_scwork": 8.487701416015625e-05
+        "Time_init": "2026-06-28 13:26:59",
+        "Time_scwork": 0.0001571178436279297,
+        "OS": "Linux"
     }
 }
